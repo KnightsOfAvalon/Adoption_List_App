@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Adoption List App</string>
+
+    <string-array name="animals">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Hamster</item>
+    </string-array>
+
+    <string-array name="adoptionFees">
+        <item>$50</item>
+        <item>$80</item>
+        <item>$10</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>A cute 3-year-old Tabby who loves being brushed!</item>
+        <item>An energetic 1-year-old Golden Retriever who will play fetch all day!</item>
+        <item>A tiny dwarf hamster. Sunflower seeds are his favorite!</item>
+    </string-array>
+
+</resources>
